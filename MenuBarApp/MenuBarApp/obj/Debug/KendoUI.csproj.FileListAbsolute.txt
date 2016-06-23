@@ -1,0 +1,6 @@
+c:\users\subramanya.v\documents\visual studio 2013\Projects\KendoUI\KendoUI\bin\KendoUI.dll.config
+c:\users\subramanya.v\documents\visual studio 2013\Projects\KendoUI\KendoUI\bin\KendoUI.dll
+c:\users\subramanya.v\documents\visual studio 2013\Projects\KendoUI\KendoUI\bin\KendoUI.pdb
+c:\users\subramanya.v\documents\visual studio 2013\Projects\KendoUI\KendoUI\obj\Debug\KendoUI.csprojResolveAssemblyReference.cache
+c:\users\subramanya.v\documents\visual studio 2013\Projects\KendoUI\KendoUI\obj\Debug\KendoUI.dll
+c:\users\subramanya.v\documents\visual studio 2013\Projects\KendoUI\KendoUI\obj\Debug\KendoUI.pdb

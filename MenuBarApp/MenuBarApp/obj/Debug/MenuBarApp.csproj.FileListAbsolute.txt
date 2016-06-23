@@ -1,0 +1,6 @@
+C:\Users\subramanya.v\Documents\Visual Studio 2013\Projects\MenuBarApp\MenuBarApp\obj\Debug\MenuBarApp.csprojResolveAssemblyReference.cache
+C:\Users\subramanya.v\Documents\Visual Studio 2013\Projects\MenuBarApp\MenuBarApp\bin\MenuBarApp.dll.config
+C:\Users\subramanya.v\Documents\Visual Studio 2013\Projects\MenuBarApp\MenuBarApp\bin\MenuBarApp.dll
+C:\Users\subramanya.v\Documents\Visual Studio 2013\Projects\MenuBarApp\MenuBarApp\bin\MenuBarApp.pdb
+C:\Users\subramanya.v\Documents\Visual Studio 2013\Projects\MenuBarApp\MenuBarApp\obj\Debug\MenuBarApp.dll
+C:\Users\subramanya.v\Documents\Visual Studio 2013\Projects\MenuBarApp\MenuBarApp\obj\Debug\MenuBarApp.pdb
